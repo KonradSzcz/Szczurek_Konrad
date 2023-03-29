@@ -1,1 +1,9 @@
-haslo: 555555
+<<<<<<< HEAD
+haslo: 55555
+=======
+<<<<<<< HEAD
+haslo: 12345
+=======
+haslo: 54321
+>>>>>>> f635fa4 (Ustawianie hasla User_1)
+>>>>>>> c454220ad1bf4e2b110aa79e16f90cb246f8a75f
