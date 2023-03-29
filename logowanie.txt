@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 haslo: 12345
+=======
+haslo: 54321
+>>>>>>> f635fa4 (Ustawianie hasla User_1)
